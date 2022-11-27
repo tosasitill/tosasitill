@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @tosasitill
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - QQ 1055343188
-- Gmail lfym888888@gmaillc.om
+- Gmail lfym888888@gmaill.com
+- Here's my youtube channel
+- youtube.com/@lfym7227
+- Here's my bilibili channel
+- bilibili.com/194634120
+- If you interesed in that please yi jian san lian and subscribe, thanks!
 
 <!---
 tosasitill/tosasitill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
